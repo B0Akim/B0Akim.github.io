@@ -1,0 +1,1441 @@
+[
+    {
+      "id": 701,
+      "hanzi": "早上好",
+      "pinyin": "zǎoshanghǎo",
+      "translations": "좋은 아침입니다",
+      "subject": "아침인사"
+    },
+    {
+       "id": 702,
+        "hanzi": "中午好",
+        "pinyin": " zhōngwǔhǎo",
+        "translations": "안녕하세요",
+        "subject": "점심인사"
+    },
+    {
+       "id": 703,
+       "hanzi": "晚上好",
+       "pinyin": "wǎnshanghǎo",
+       "translations": "안녕하세요",
+       "subject": "저녁인사"
+    },
+    {
+       "id": 704,
+       "hanzi": "见到你很高兴",
+       "pinyin": "jiàndào nĭ hĕn gāoxìng",
+       "translations": "jiàndào nĭ hĕn gāoxìng",
+       "subject": "처음 만났을 때"
+    },
+    {
+       "id": 705,
+       "hanzi": "认识你很高兴",
+       "pinyin": "rènshi nǐ hěngāoxìng",
+       "translations": "만나뵙게되어 기쁩니다.",
+       "subject": "처음 만났을 때"
+    },
+    {
+       "id": 706,
+       "hanzi": "认识你很高兴",
+       "pinyin": "rènshi nǐ hěngāoxìng",
+       "translations": "만나뵙게되어 기쁩니다.",
+       "subject": "처음 만났을 때"
+    },
+    {
+       "id": 707,
+       "hanzi": "久闻大名",
+       "pinyin": "jiǔwén dàmíng",
+       "translations": "말씀 많이 들었습니다",
+       "subject": "처음 만났을 때"
+    },
+
+    {
+       "id": 708,
+       "hanzi": "好久不见",
+       "pinyin": "hǎojiǔbújiàn ",
+       "translations": "오랜만입니다",
+       "subject": "오랜만에 만났을 때"
+    },
+    {
+       "id": 709,
+       "hanzi": "最近好吗？",
+       "pinyin": "hǎojiǔbújiàn ",
+       "translations": "오랜만입니다",
+       "subject": "오랜만에 만났을 때"
+    },
+    {
+       "id": 710,
+       "hanzi": "好久不见",
+       "pinyin": "zuìjìn hăo ma ",
+       "translations": "요즘 어떠세요?",
+       "subject": "오랜만에 만났을 때"
+    },
+    {
+       "id": 711,
+       "hanzi": "过得怎么样？",
+       "pinyin": "Guò de zěnmeyàng？ ",
+       "translations": "어떻게 지내세요?",
+       "subject": "오랜만에 만났을 때"
+    },
+    {
+       "id": 713,
+       "hanzi": "路上辛苦了",
+       "pinyin": "lùshàng xīnkǔ le",
+       "translations": "오시느라 수고하셨습니다.",
+       "subject": "멀리서 온 고객에게 하는 인사"
+    },
+    {
+       "id": 714,
+       "hanzi": "一路顺利吧？",
+       "pinyin": "yīlù shùnlì ba?",
+       "translations": "오시는데 불편하지 않으셨죠?",
+       "subject": "멀리서 온 고객에게 하는 인사"
+    },
+    {
+       "id": 715,
+       "hanzi": "一路顺风。",
+       "pinyin": "yí lù shùn fēng",
+       "translations": "편안히 가세요.",
+       "subject": "손님을 배웅할 때 하는 인사"
+    },
+    {
+       "id": 716,
+       "hanzi": "一路小心。",
+       "pinyin": "yīlù xiǎoxīn",
+       "translations": "조심해서 가세요.",
+       "subject": "손님을 배웅할 때 하는 인사"
+   },
+   {
+       "id": 717,
+       "hanzi": "一路平安。",
+       "pinyin": " yí lù píng ān ",
+       "translations": "잘 가시길 바랍니다",
+       "subject": "손님을 배웅할 때 하는 인사"
+   },
+   {
+       "id": 718,
+       "hanzi": "过得怎么样？",
+       "pinyin": "Guò de zěnmeyàng？ ",
+       "translations": "어떻게 지내세요?",
+       "subject": "손님을 배웅할 때 하는 인사"
+   },
+   {
+       "id": 719,
+       "hanzi": "请多保重。",
+       "pinyin": "Qǐng duō bǎozhòng",
+       "translations": "몸조심하세요.",
+       "subject": "손님을 배웅할 때 하는 인사"
+   },
+   {
+       "id": 720,
+       "hanzi": "过得怎么样？",
+       "pinyin": "Guò de zěnmeyàng？ ",
+       "translations": "어떻게 지내세요?",
+       "subject": "손님을 배웅할 때 하는 인사"
+   },
+   {
+       "id": 721,
+       "hanzi": "请慢走。",
+       "pinyin": "qǐngmànzǒu",
+      "translations": "살펴 가세요.",
+      "subject": "손님을 배웅할 때 하는 인사"
+   },
+   {
+       "id": 722,
+       "hanzi": "请留步吧",
+       "pinyin": "qǐngliúbùba",
+       "translations": "나오지 마세요.",
+       "subject": "헤어질 때 인사"
+   },
+   {
+       "id": 723,
+       "hanzi": "不远送了。",
+       "pinyin": "bùyuǎn sòng le",
+       "translations": "멀리 나가지 않겠습니다.",
+       "subject": "헤어질 때 인사"
+   },
+   {
+       "id": 724,
+       "hanzi": "我先走了。",
+       "pinyin": "wǒ xiān zǒule",
+       "translations": "저 먼저 가보겠습니다.",
+       "subject": "헤어질 때 인사"
+   },
+   {
+      "id": 725,
+      "hanzi": "后会有期。",
+      "pinyin": "hòu huì yǒu qī",
+      "translations": "다음에 뵙겠습니다.",
+      "subject": "헤어질 때 인사"
+   },
+   {
+       "id": 726,
+       "hanzi": "先告辞了。",
+       "pinyin": "kāi xiān gàocí le",
+       "translations": "저 먼저 일어나겠습니다.",
+       "subject": "헤어질 때 인사"
+   },
+   {
+       "id": 727,
+       "hanzi": "新年快乐！",
+       "pinyin": "xīn nián kuài lè ",
+       "translations": "새해 복 많이 받으세요.",
+       "subject": "명절. 휴일 인사"
+   },
+   {
+       "id": 728,
+       "hanzi": "中秋节快乐！",
+       "pinyin": "zhōngqiūjié kuàilè ！",
+       "translations": "추석 잘 보내세요!",
+       "subject": "명절. 휴일 인사"
+   },
+   {
+       "id": 729,
+       "hanzi": "圣诞节快乐！",
+       "pinyin": " shèngdànjié kuàilè",
+       "translations": "메리크리스마스!",
+       "subject": "명절. 휴일 인사"
+   },
+   {
+     "id": 730,
+       "hanzi": "我先走了。",
+       "pinyin": "wǒ xiān zǒule",
+       "translations": "저 먼저 가보겠습니다.",
+       "subject": "명절. 휴일 인사"
+   },
+   {
+       "id": 731,
+       "hanzi": "假期愉快！",
+       "pinyin": "jiàqī yúkuài",
+       "translations": "휴가 잘 보내세요!",
+       "subject": "명절. 휴일 인사"
+   },
+   {
+       "id": 732,
+       "hanzi": "周末愉快！",
+       "pinyin": "zhōumò yúkuài",
+       "translations": "즐거운 주말 보내세요!",
+       "subject": "명절. 휴일 인사"
+   },
+   {
+       "id": 733,
+       "hanzi": "祝你好运！",
+       "pinyin": "zhùnǐhǎoyùn",
+       "translations": "행운을 빕니다!",
+       "subject": "축원할 때 하는 인사"
+   },
+   {
+       "id": 734,
+       "hanzi": "祝你身体健康！",
+       "pinyin": "zhù nĭ shēntĭ jiànkāng",
+       "translations": "건강하세요",
+       "subject": "축원할 때 하는 인사"
+   },
+   {
+       "id": 735,
+       "hanzi": "祝你万事如意！",
+       "pinyin": "zhù nĭ wànshìrúyì",
+       "translations": "뜻하시는 모든 일이 잘되시길 바랍니다.",
+       "subject": "축원할 때 하는 인사"
+   },
+   {
+       "id": 736,
+       "hanzi": "祝你成功！",
+       "pinyin": "zhù nǐ chénggōng",
+       "translations": "성공을 빌게요!",
+       "subject": "축원할 때 하는 인사"
+   },
+   {
+       "id": 737,
+       "hanzi": "祝你一帆风顺！",
+       "pinyin": "zhù nĭ yīfānfēngshùn",
+       "translations": "모든 것이 잘 되길 바래요.",
+       "subject": "축원할 때 하는 인사"
+   },
+   {
+       "id": 738,
+       "hanzi": "谢谢你的好意!",
+       "pinyin": "xièxiè nĭ de hăoyì",
+       "translations": "호의에 감사드립니다.",
+       "subject": "감사 인사"
+   },
+   {
+       "id": 739,
+       "hanzi": "谢谢你的帮助!",
+       "pinyin": "xièxiè nĭ de bāngzhù",
+       "translations": "도와주셔서 감사합니다.",
+       "subject": "감사 인사"
+   },
+   {
+       "id": 740,
+       "hanzi": "哪里哪里!",
+       "pinyin": "nǎli nǎli",
+       "translations": "천만에요.",
+       "subject": "감사 인사"
+   },
+   {
+       "id": 741,
+       "hanzi": "请多谅解。",
+       "pinyin": "qĭng duō liàngjiĕ",
+       "translations": "양해 부탁드립니다.",
+       "subject": "양해 인사"
+   },
+   {
+       "id": 742,
+       "hanzi": "真了不起。",
+       "pinyin": "zhēn liǎo bu qǐ",
+       "translations": "정말 대단하십니다!",
+       "subject": "칭찬할 때"
+   },
+   {
+       "id": 743,
+       "hanzi": "真佩服!",
+       "pinyin": "zhēn pèi fú",
+       "translations": "정말 존경스럽습니다!",
+       "subject": "칭찬할 때"
+   },
+   {
+       "id": 744,
+       "hanzi": "太聪明了!",
+       "pinyin": "tài cōngmíng le",
+       "translations": "정말 총명하시네요!",
+       "subject": "칭찬할 때"
+   },
+   {
+       "id": 745,
+       "hanzi": "我是新职员。",
+       "pinyin": "wǒ shì xīn zhíyuán。",
+       "translations": "저는 신입사원입니다.",
+       "subject": "회사생활"
+   },
+   {
+       "id": 746,
+       "hanzi": "从今天开始一起工作的新职员。",
+       "pinyin": "cóng jīntiān kāishǐ yìqǐ gōngzuò de xīn zhíyuán。",
+       "translations": "오늘부로 같이 일하게 된 신입사원입니다.",
+       "subject": "회사생활"
+   },
+   {
+       "id": 747,
+       "hanzi": "请通过电子邮件联系。",
+       "pinyin": "qǐng tōngguò diànziyóujiàn liánxì。",
+       "translations": "이메일로 연락 주세요.",
+       "subject": "회사생활"
+   },
+   {
+       "id": 748,
+       "hanzi": "告诉我你的电子邮件地址好吗？",
+       "pinyin": "gàosù wǒ nǐ de diànziyóujiàn dìzhǐ hǎo ma？",
+       "translations": "이메일 주소 좀 알려 주실래요?",
+       "subject": "회사생활"
+   },
+   {
+       "id": 750,
+       "hanzi": "请通过电子邮件联系。",
+       "pinyin": "qǐng tōngguò diànziyóujiàn liánxì。",
+       "translations": "이메일로 연락 주세요.",
+       "subject": "회사생활"
+   },
+   {
+       "id": 751,
+       "hanzi": "电话号码写在这个名片上。",
+       "pinyin": "diànhuàhàomǎ xiě zài zhègè míngpiàn shàng。",
+       "translations": "전화번호는 여기 이 명함에 적혀 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 752,
+       "hanzi": "那我留张名片。",
+       "pinyin": "nà wǒ liúzhāng míngpiàn。",
+       "translations": "그러면 명함을 두고 가겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 753,
+       "hanzi": "能给我一张名片吗？",
+       "pinyin": "Néng gěi wǒ yì zhāng míngpiàn ma？",
+       "translations": "명함 한 장 주시겠습니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 754,
+       "hanzi": "等他回来的时候请转交给他。",
+       "pinyin": "děng tā huílái de shíhou qǐng zhuǎnjiāo gěi tā",
+       "translations": " 돌아오시면 전해 주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 755,
+       "hanzi": "我要签合同。",
+       "pinyin": "wǒ yào qiānhétóng。",
+       "translations": "계약하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 756,
+       "hanzi": "合同分析已经结束了吗？",
+       "pinyin": "hétóng fēnxī yǐjīng jiéshù le ma？",
+       "translations": "계약서 검토가 완료되었나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 757,
+       "hanzi": "请在合同上签字。",
+       "pinyin": "qǐng zài hétóng shàng qiānzì。",
+       "translations": "계약서에 서명하시기 바랍니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 758,
+       "hanzi": "代理现在不在。",
+       "pinyin": "dàilǐ xiànzài bù zài。",
+       "translations": "대리님은 지금 부재중이십니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 759,
+       "hanzi": "代理下班了。",
+       "pinyin": "dàilǐ xiàbān le。",
+       "translations": "대리님은 퇴근하셨습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 760,
+       "hanzi": "代理出差了。",
+       "pinyin": "dàilǐ chūchāi le。",
+       "translations": "대리님은 출장 가셨습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 761,
+       "hanzi": "我去出差了。",
+       "pinyin": "wǒ qù chūchāi le。",
+       "translations": "저는 출장을 갑니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 762,
+       "hanzi": "有什么要说的吗？",
+       "pinyin": "yŏu shénme yào shuō de ma ？",
+       "translations": "무슨 하실 말씀이 있으십니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 763,
+       "hanzi": "需要留言吗？",
+       "pinyin": "xūyào liúyán ma？",
+       "translations": "메모 남겨드릴까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 764,
+       "hanzi": "我把电话转给他。",
+       "pinyin": "Wǒ bǎ diànhuà zhuǎngěi tā",
+       "translations": "제 명함입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 765,
+       "hanzi": "请通过电子邮件联系。",
+       "pinyin": "qǐng tōngguò diànziyóujiàn liánxì。",
+       "translations": "그분을 바꿔 드릴게요. ",
+       "subject": "회사생활"
+  },
+  {
+       "id": 766,
+       "hanzi": "我正在开会。。",
+       "pinyin": "wŏ zhèng zài kāihuì",
+       "translations": "저는 회의 중이에요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 767,
+       "hanzi": "会议延期了。",
+       "pinyin": "huìyì yánqī le",
+       "translations": "회의가 연기되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 768,
+       "hanzi": "会议是什么时候？",
+       "pinyin": "huìyì shì shénme shíhòu？",
+       "translations": "회의는 언제입니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 769,
+       "hanzi": "会议的议题是什么？",
+       "pinyin": "Huìyì de yìtí shì shénme？",
+       "translations": "회의 의제는 무엇입니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 770,
+       "hanzi": "会议在425号。",
+       "pinyin": "qh  uìyì zài 425 hào。",
+       "translations": "회의는 425호에서 있어요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 771,
+       "hanzi": "你要参加会议吗？",
+       "pinyin": "nĭ yào canjia huiyi ma",
+       "translations": "회의에 참석하실 건가요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 772,
+       "hanzi": "会议被暂停了。",
+       "pinyin": "huìyì bèi zàntíng le。",
+       "translations": "회의가 잠시 중단되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 773,
+       "hanzi": "劳神帮我复印几份资料",
+       "pinyin": "láoshén bāng wǒ fùyìn jǐfèn zīliào 。",
+       "translations": "수고스럽지만 자료 몇 부 복사해 주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 774,
+       "hanzi": "要复印几份？",
+       "pinyin": "yào fùyìn jǐfèn",
+       "translations": "복사를 몇 부 할까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 775,
+       "hanzi": "复印机被纸卡住了。",
+       "pinyin": "fùyìnjī bèi zhǐ kǎzhù le。",
+       "translations": "복사기에 종이가 걸렸어요.",
+       "subject": "회사생활"
+ },
+  {
+       "id": 776,
+       "hanzi": "复印机坏了。",
+       "pinyin": "fùyìnjī huài le",
+       "translations": "복사기가 고장 났습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 777,
+       "hanzi": "请用传真发给我吧。",
+       "pinyin": "qǐng yòng chuánzhēn fāgěi wǒ ba。",
+       "translations": " 팩스로 보내 주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 778,
+       "hanzi": "可以发传真吗？",
+       "pinyin": "kěyǐ fā chuánzhēn ma",
+       "translations": "  팩스 보내도 될까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 779,
+       "hanzi": "还没发传真吗？",
+       "pinyin": "hái méi fāchuánzhēn ma？",
+       "translations": "  팩스 아직 안 보내셨어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 780,
+       "hanzi": "能把材料传真过来吗？",
+       "pinyin": "qNéng bǎ cáiliào chuánzhēn guòlái ma？",
+       "translations": "서류를 팩스로 보내 주시겠어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 781,
+       "hanzi": "这是会议参考资料。",
+       "pinyin": "qhèshì huìyì cānkǎo zīliào。",
+       "translations": "회의 참고자료입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 782,
+       "hanzi": "可以用网络会议进行吗？",
+       "pinyin": "kěyǐ yòng wǎngluò huìyì jìnxíng ma？",
+       "translations": "화상 미팅으로 진행할 수 있을까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 783,
+       "hanzi": "视频会议前请确认网络连接状态。",
+       "pinyin": "shìpínhuìyì qián qǐng quèrèn wǎngluòliánjiē zhuàngtài。",
+       "translations": "화상회의 전에 네트워크 연결 상태를 확인해 주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 784,
+       "hanzi": "可以重新安排会议日程吗？",
+       "pinyin": "kěyǐ chóngxīnānpái huìyì rìchéng ma？",
+       "translations": "미팅 스케줄을 다시 잡을 수 있을까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 785,
+       "hanzi": "进行视频会议时请打开麦克风。",
+       "pinyin": "jìnxíng shìpínhuìyì shíqǐng dǎkāi màikèfēng。",
+       "translations": "화상회의를 진행할 때 마이크를 켜주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 786,
+       "hanzi": "进行视频会议的时候请打开网络摄像头。",
+       "pinyin": "jìnxíng shìpínhuìyì de shíhòu qǐng dǎkāi wǎngluò shèxiàngtóu。",
+       "translations": "화상회의를 진행할 때 웹캠을 켜주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 787,
+       "hanzi": "开始视频会议。",
+       "pinyin": "kāishǐ shìpínhuìyì。",
+       "translations": "화상회의를 시작하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 788,
+       "hanzi": "在会议开始之前分发册子。",
+       "pinyin": "zài huìyì kāishĭ zhīqián fēnfā cèzi",
+       "translations": "회의에 앞서 책자를 돌리겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 789,
+       "hanzi": "会议延期到明天吧。",
+       "pinyin": "huìyì yánqī dào míngtiān ba。",
+       "translations": "회의를 내일로 연기합시다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 790,
+       "hanzi": "我整个上午都联系不上金代理。",
+       "pinyin": "wǒ zhěnggè shàngwǔ dōu liánxì bùshàng jīn dàilǐ。",
+       "translations": "김대리님과 오전 내내 연락이 되지 않습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 791,
+       "hanzi": "金代理正在休假。",
+       "pinyin": "jīn dàilǐ zhèngzài xiūjià。",
+       "translations": "김대리님은 지금 휴가 중이십니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 792,
+       "hanzi": "假期过得好吗？",
+       "pinyin": "qhuìyì zài 425 hào。",
+       "translations": "jiàqī guòdé hǎo ma？",
+       "subject": "회사생활"
+  },
+  {
+       "id": 793,
+       "hanzi": "我们约个时间吃午饭吧？",
+       "pinyin": "wǒmen yuēgè shíjiān chī wǔfàn ba？",
+       "translations": "점심 약속으로 잡을까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 794,
+       "hanzi": "您在午餐约定地点在哪里？",
+       "pinyin": "nín zài wǔcān yuēdìng dìdiǎn zài nǎlǐ？",
+       "translations": "점심 약속 장소를 어디로 하는 게 편하신가요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 795,
+       "hanzi": "我可以推迟约会吗？",
+       "pinyin": "wǒ kěyǐ tuīchí yuēhuì ma？",
+       "translations": "약속을 미뤄도 될까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 796,
+       "hanzi": "顾客预计明天中午到达机场。",
+       "pinyin": "gùkè yùjì míngtiān zhōngwǔ dàodá jīchǎng。",
+       "translations": "고객님은 내일 정오에 공항에 도착 할 예정입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 797,
+       "hanzi": "顾客您到达哪个机场？",
+       "pinyin": "gùkè nín dàodá něigè jīchǎng？",
+       "translations": "고객님은 어느 공항에 도착하시나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 798,
+       "hanzi": "顾客预计会到达仁川机场",
+       "pinyin": "gùkè yùjì huì dàodá rénchuān jīchǎng。",
+       "translations": "고객님은 인천 공항에 도착하실 예정입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 799,
+       "hanzi": "顾客预计会到达金浦机场。",
+       "pinyin": "gùkè yùjì huì dàodá jīnpǔ jīchǎng。",
+       "translations": "고객님은 김포 공항에 도착하실 예정입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 800,
+       "hanzi": "明天谁去机场接你？",
+       "pinyin": "míngtiān shéi qù jīchǎng jiē nǐ？",
+       "translations": "내일 누가 공항에 마중 나가나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 801,
+       "hanzi": "我去机场接您。",
+       "pinyin": "wǒ qù Jīchǎng jiē nín",
+       "translations": "제가 공항으로 마중 나가겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 802,
+       "hanzi": "我来负责发表演讲。",
+       "pinyin": "wǒ lái fùzé fābiǎo yǎnjiǎng。",
+       "translations": "프레젠테이션 발표는 제가 맡겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 803,
+       "hanzi": "发表材料收集完了吗？",
+       "pinyin": "fābiǎo cáiliào shōují wán le ma？",
+       "translations": "프레젠테이션 발표 자료 수집은 완료했나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 804,
+       "hanzi": "今天有多少人参加发表?",
+       "pinyin": "qīntiān yǒu duōshǎo rén cānjiā fābiǎo?",
+       "translations": "오늘 발표에 몇 명이 참석하나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 805,
+       "hanzi": "请打印发表用的印刷品。",
+       "pinyin": "qǐng dǎyìn fābiǎo yòng de yìnshuāpǐn。",
+       "translations": "발표용 인쇄물을 출력해 주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 806,
+       "hanzi": "这是准备的演示文稿印刷品。",
+       "pinyin": "zhèshì zhǔnbèi de yǎnshì wéngǎo yìnshuāpǐn。",
+       "translations": "이것은 준비한 프리젠테이션 인쇄물입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 807,
+       "hanzi": "印刷品有需要修改的地方吗?",
+       "pinyin": "yìnshuāpǐ tyǒu xūyào xiūgǎi de dìfāng ma?",
+       "translations": "인쇄물에 수정할 부분이 있나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 808,
+       "hanzi": "印刷品中有要删除的部分吗？",
+       "pinyin": "yìnshuāpǐn zhōngyǒu yào shānchú de bùfèn ma？",
+       "translations": "인쇄물 중에 삭제할 부분이 있나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 809,
+       "hanzi": "请看完发表印刷品后给予反馈。",
+       "pinyin": "qǐng kàn wán fābiǎo yìnshuāpǐn hòu jǐyǔ fǎnkuì。",
+       "translations": "발표 인쇄물 보시고 피드백 부탁드립니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 810,
+       "hanzi": "我是今天负责发表的金职员。",
+       "pinyin": "wǒ shì jīntiān fùzé fābiǎo de jīn zhíyuán。",
+       "translations": "저는 오늘 발표를 맡은 김 직원입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 811,
+       "hanzi": "发表马上就要开始了，请入座。",
+       "pinyin": "fābiǎo mǎshàng jiùyào kāishǐ le，qǐng rùzuò。",
+       "translations": "발표가 곧 시작되니 착석해주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 812,
+       "hanzi": "5分钟后开始发表。",
+       "pinyin": "5 fēnzhōng hòu kāishǐ fābiǎo。",
+       "translations": "5분 뒤 발표를 시작하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 813,
+       "hanzi": "发言到此结束。",
+       "pinyin": "fāyán dàocǐjiéshù。",
+       "translations": "이상으로 발표를 마치겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 814,
+       "hanzi": "发言结束了。",
+       "pinyin": "fāyán jiéshù le。",
+       "translations": "발표를 마치겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 815,
+       "hanzi": "接受提问。",
+       "pinyin": "qjiēshòu tíwèn",
+       "translations": "질문을 받겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 816,
+       "hanzi": "我有个问题。",
+       "pinyin": "wŏ yŏu gè wèntí",
+       "translations": "질문이 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 817,
+       "hanzi": "能再问一个问题吗？",
+       "pinyin": "néng zài wèn yígè wèntí ma？",
+       "translations": "질문을 하나 더 해도 될까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 818,
+       "hanzi": "谢谢你接受我的提问。",
+       "pinyin": "xièxiè nǐ jiēshòu wǒ de tíwèn。",
+       "translations": "질문을 받아주셔서 감사합니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 819,
+       "hanzi": "还有想提问的人吗？",
+       "pinyin": "háiyǒu xiǎng tíwèn de rén ma？",
+       "translations": "더 질문 하실 분 없으신가요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 820,
+       "hanzi": "如果没有问题，就结束发表。",
+       "pinyin": "rúguǒ méiyǒu wèntí , jiù jiéshù fābiǎo。",
+       "translations": "질문이 없다면 발표를 마무리하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 821,
+       "hanzi": "感谢您听了我的发表。",
+       "pinyin": "gǎnxiènín tīng le wǒ de fābiǎo。",
+       "translations": "지금까지 제 발표를 들어주셔서 감사합니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 822,
+       "hanzi": "谢谢大家来听我的报告。",
+       "pinyin": "xièxiè dàjiā lái tīng wǒ de bàogào。",
+       "translations": "제 발표를 들어주셔서 감사합니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 823,
+       "hanzi": "请看完发表印刷品后给予反馈。",
+       "pinyin": "qǐng kàn wán fābiǎo yìnshuāpǐn hòu jǐyǔ fǎnkuì。",
+       "translations": "발표 인쇄물 보시고 피드백 부탁드립니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 824,
+       "hanzi": "我打電話是想確認一下報告是否準備好了。",
+       "pinyin": "wǒ dǎ diànhuà shì xiǎng quèrèn yīxià bàogào shìfǒu zhǔnbèi hǎo le.",
+       "translations": "보고서 준비 여부를 확인하려고 전화 드렸습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 825,
+       "hanzi": "關於您最近發的郵件，我給您打了電話。",
+       "pinyin": "guānyú nín zuìjìn fā de yóujiàn ， wǒ gěi nín dǎ le diànhuà。",
+       "translations": "최근에 보내신 이메일 관련해서 전화 드렸습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 826,
+       "hanzi": "按照您的要求，我會在郵件中附上文件.",
+       "pinyin": "ànzhào nín de yāoqiú，wǒhuì zài yóujiàn zhōng fùshàng wénjiàn。",
+       "translations": "요청하신대로, 이메일에 파일을 첨부하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 827,
+       "hanzi": "對不起回覆晚了。",
+       "pinyin": "duì bùqǐ huífù wǎn le。",
+       "translations": "답변이 늦어서 죄송합니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 828,
+       "hanzi": "我不會忘記，通話結束後我會把文件發給您。",
+       "pinyin": "wǒ bùhuì wàngjì ， tōnghuà jiéshù hòu wǒ huì bǎ wénjiàn fāgěi nín。",
+       "translations": "발표 인쇄물 보시고 피드백 부탁드립니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 829,
+       "hanzi": "我不會忘記，會在會議結束後把文件發給您.",
+       "pinyin": "wǒ bùhuì wàngjì ，huì zài huìyì jiéshù hòu bǎ wénjiàn fāgěi nín.",
+       "translations": "발표 인쇄물 보시고 피드백 부탁드립니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 830,
+       "hanzi": "我要提交統計報告。",
+       "pinyin": "wǒ yào tíjiāo tǒngjì bàogào",
+       "translations": "통계 보고서를 제출하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 831,
+       "hanzi": "報告都寫完了嗎？",
+       "pinyin": "bàogào dōu xiě wán le ma？",
+       "translations": "보고서 작성은 다 했어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 832,
+       "hanzi": "什麼時候完成報告？",
+       "pinyin": "shénme shíhòu wánchéng bàogào？",
+       "translations": "보고서는 언제 끝낼 건가요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 833,
+       "hanzi": "發給你報告的複印件吧。",
+       "pinyin": "fāgěi nǐ bàogào de fù yìnjiàn ba。",
+       "translations": "보고서 사본을 보내드리겠어요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 834,
+       "hanzi": "可以看一下我的報告嗎？",
+       "pinyin": "kěyǐ kàn yīxià wǒ de bàogào ma？",
+       "translations": "제 보고서 좀 봐 주시겠어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 835,
+       "hanzi": "稍後將報道更詳細的內容。",
+       "pinyin": "hāohòujiāng bàodào gèng xiángxì de nèiróng。",
+       "translations": "조금 더 자세한 내용은 추후 보고 할 예정입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 836,
+       "hanzi": "那報告書最後期限是什麼時候？",
+       "pinyin": "nàbào gàoshū zuì hòu qī xiàn shì shénme shíhòu？",
+       "translations": "그 보고서 마감시한이 언제입니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 837,
+       "hanzi": "報告書請準備pdf。",
+       "pinyin": "bàogào shū qǐng zhǔnbèi pdf。",
+       "translations": "보고서는 pdf로 준비해주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 838,
+       "hanzi": "給您送一份最終報告啊？",
+       "pinyin": "gěi nín sòng yīfèn zuìzhōng bàogào a？",
+       "translations": "최종 보고서를 한 부 보내 드릴까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 839,
+       "hanzi": "這份文件是營銷報告。",
+       "pinyin": "zhè fènwénjiàn shì yíngxiāo bàogào.",
+       "translations": "이 서류는 마케팅 보고서입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 840,
+       "hanzi": "我在市場部工作。",
+       "pinyin": "wǒ zài shìchǎngbù gōngzuò。",
+       "translations": "저는 마케팅 부서에서 일하고 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 841,
+       "hanzi": "我們打算和營銷部門合作。",
+       "pinyin": "wǒmen dǎsuàn hé yíngxiāo bùmén hézuò.",
+       "translations": "마케팅 부서와 협업 할 예정입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 842,
+       "hanzi": "是哪個部門？",
+       "pinyin": "shì nǎgè bùmén？",
+       "translations": "어느 부서입니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 843,
+       "hanzi": "給您轉接到哪個部門？",
+       "pinyin": "gěi nín zhuǎn jiēdào nǎgè bùmén？",
+       "translations": "어느 부서로 돌려 드릴까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 844,
+       "hanzi": "你在哪個部門工作?",
+       "pinyin": "nǐ zài nǎgè bùmén gōngzuò?",
+       "translations": "어느 부서에서 근무하시나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 845,
+       "hanzi": "升職了。",
+       "pinyin": "shēngzhí le",
+       "translations": "승진했습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 846,
+       "hanzi": "祝賀您升職了。",
+       "pinyin": "zhùhè nín shēngzhí le。",
+       "translations": "승진을 축하해요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 847,
+       "hanzi": "他晉升得很快。",
+       "pinyin": "tā jìnshēng dé hěnkuài。",
+       "translations": "그는 빨리 승진했습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 848,
+       "hanzi": "我在人事部門工作.",
+       "pinyin": "wǒ zài rénshìbù mén gōngzuò。",
+       "translations": "저는 인사부서에서 일하고 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 849,
+      "hanzi": "我在法務部工作。",
+      "pinyin": "wǒ zài fǎwùbù gōngzuò。",
+      "translations": "저는 법무팀에서 일하고 있습니다.",
+      "subject": "회사생활"
+  },
+  {
+       "id": 850,
+       "hanzi": "我在總務部工作。",
+       "pinyin": "wǒ zài zǒngwùbù gōngzuò。",
+       "translations": "저는 총무팀에서 일하고 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 851,
+       "hanzi": "我在財經組工作。",
+       "pinyin": "wǒ zài cáijīngzǔ gōngzuò。",
+       "translations": "저는 재경팀에서 일하고 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 852,
+       "hanzi": "我在宣傳組工作。",
+       "pinyin": "wǒ zài xuānchuánbù gōngzuò.",
+       "translations": "저는 홍보팀에서 일하고 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 853,
+       "hanzi": "我在銷售部門工作。",
+       "pinyin": "wǒ zài xiāoshòu bùmén gōngzu。",
+       "translations": "저는 영업부서에서 일하고 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 854,
+       "hanzi": "他被安排到了營業部。",
+       "pinyin": "tā bèi ānpái dào le yíngyèbù。",
+       "translations": "그는 영업부서로 배치되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 855,
+       "hanzi": "他所屬營業部。",
+       "pinyin": "tā suǒshǔ yíngyèbù。",
+       "translations": "그는 영업부 소속입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 856,
+       "hanzi": "他被安排到了營業部。",
+       "pinyin": "tā bèi ānpái dào le yíngyèbù。",
+       "translations": "그는 영업부서로 배치되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 857,
+       "hanzi": "想在海外分公司工作嗎？",
+       "pinyin": "xiǎng zài hǎiwài fēngōngsī gōngzuò ma？",
+       "translations": "해외 지사에서 근무할 생각이 있어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 858,
+       "hanzi": "我打算去海外出差。",
+       "pinyin": "wǒ dǎsuàn qù hǎiwài chūchāi。",
+       "translations": "저는 해외 출장을 갈 예정입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 859,
+       "hanzi": "我在國外出差的時候不能接電話。",
+       "pinyin": "wǒ zài guówài chūchāi de shíhòu bù néng jiē diàn huà。",
+       "translations": "제가 해외출장을 가 있는 동안에는 전화를 받지 못합니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 860,
+       "hanzi": "我去海外出差的時候請留下郵件。",
+       "pinyin": "wǒ qù hǎiwà ichūchāi de shíhòu qǐng liúxià yóujiàn。",
+       "translations": "제가 해외출장을 가 있는 동안에는 이메일을 남겨주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 861,
+       "hanzi": "出差準備好了嗎?",
+       "pinyin": "chūchāi zhǔnbèi hǎo le ma？",
+       "translations": "출장 준비는 다 하셨나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 862,
+       "hanzi": "出差費用將會從公司得到。",
+       "pinyin": "chūchāi fèiyòng jiānghuì cóng gōngsī dédào 。",
+       "translations": "출장비는 회사에서 돌려받게 됩니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 863,
+       "hanzi": "這是我第一次出差。",
+       "pinyin": "zhèshì wǒ dìyīcì chūchāi。",
+       "translations": "저의 첫 출장입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 864,
+       "hanzi": "出差回來學到了很多東西。",
+       "pinyin": "chūchāi huílái xuédào le hěnduō dōngxī。",
+       "translations": "출장을 다녀오며 많은 것을 배웠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 865,
+       "hanzi": "1年出差3~4次。",
+       "pinyin": "1 nián chūchāi 3 ~ 4 cì。",
+       "translations": "1년에 3~4차례 출장을 갑니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 866,
+       "hanzi": "要签合同吗？",
+       "pinyin": "yào qiānhétóng ma？",
+       "translations": "계약서를 작성하시겠어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 867,
+       "hanzi": "合同准备好了。",
+       "pinyin": "hétóng zhǔnbèi hǎo le。",
+       "translations": "계약서가 준비되어있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 868,
+       "hanzi": "所有的东西都在这份合同里提到过。",
+       "pinyin": "suǒyǒu de dōngxī dōu zài zhèfèn hétóng lǐ tídào guò。",
+       "translations": "모든 것이 이 계약서에 언급되어있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 869,
+       "hanzi": "合同分析已经结束了吗？",
+       "pinyin": "hétóng fēnxī yǐjīng jiéshù le ma？",
+       "translations": "계약서 검토가 완료되었나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 870,
+       "hanzi": "希望在2部合同书上签字。",
+       "pinyin": "xīwàng zà t2 bù hétóngshū shàng qiānzì。",
+       "translations": "계약서 2부에 서명하시기 바랍니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 871,
+       "hanzi": "请您过来签一下合同。",
+       "pinyin": "Qǐng nín guò lái qiān yíxià hétóng",
+       "translations": "계약서 작성하러 와 주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 872,
+       "hanzi": "合同看完了吗？",
+       "pinyin": "hétóng kàn wán le ma？",
+       "translations": "계약서는 다 보셨나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 873,
+       "hanzi": "草拟一份合同草案吧。",
+       "pinyin": "cǎonǐ yīfèn hétóng cǎoàn ba。",
+       "translations": "계약 초안을 작성합시다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 875,
+       "hanzi": "签约时有什么需要的吗？",
+       "pinyin": "Qiānyuē shí yǒu shénme xūyào de ma？",
+       "translations": "계약에 필요한 게 있어요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 876,
+       "hanzi": "有什么需要帮忙的吗？",
+       "pinyin": "yŏu shénme xūyào bāngmáng de ma",
+       "translations": "무엇을 도와 드릴까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 877,
+       "hanzi": "您是今天要来的顾客吧？",
+       "pinyin": "nín shì jīntiān yào lái de gùkè ba？",
+       "translations": "오늘 오시기로 한 고객님 맞으시죠?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 878,
+       "hanzi": "请坐在客厅等。",
+       "pinyin": "qǐng zuòzài kètīng děng。",
+       "translations": "응접실에 앉아서 기다려주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 879,
+       "hanzi": "最后期限是什么时候?",
+       "pinyin": "tā bèi ānpái dào le yíngyèbù。",
+       "translations": "그는 영업부서로 배치되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 880,
+       "hanzi": "我带您去客厅。",
+       "pinyin": "wǒ dài nín qù kètīng。",
+       "translations": "응접실로 안내해드리겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 881,
+       "hanzi": "走廊的尽头有客厅。",
+       "pinyin": "zǒuláng de jìntóu yǒu kètīng。",
+       "translations": "복도 맨 끝에 응접실이 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 882,
+       "hanzi": "要不要喝的？",
+       "pinyin": "yào búyào hē de？",
+       "translations": "마실 것 좀 드릴까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 883,
+       "hanzi": "喝的要什么？",
+       "pinyin": "hē de yào shénme？",
+       "translations": "마실 것은 어떻게 하시겠습니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 884,
+       "hanzi": "准备了咖啡、绿茶等。",
+       "pinyin": "zhǔnbèi le kāfēi、lǜchá děng。",
+       "translations": "커피,녹차 등이 준비되어있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 885,
+       "hanzi": "要喝咖啡吗？",
+       "pinyin": "yào hēkāfēi ma？",
+       "translations": "커피 드실래요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 886,
+       "hanzi": "要喝绿茶吗？",
+       "pinyin": "yào hē lǜchá ma？",
+       "translations": "녹차 드시겠어요？",
+       "subject": "회사생활"
+  },
+  {
+       "id": 887,
+       "hanzi": "茶点也准备好了。",
+       "pinyin": "chádiǎn yě zhǔnbèi hǎo le。",
+       "translations": "다과도 준비되어있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 888,
+       "hanzi": "他被安排到了營業部。",
+       "pinyin": "tā bèi ānpái dào le yíngyèbù。",
+       "translations": "그는 영업부서로 배치되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 889,
+       "hanzi": "他被安排到了營業部。",
+       "pinyin": "tā bèi ānpái dào le yíngyèbù。",
+       "translations": "그는 영업부서로 배치되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 890,
+       "hanzi": "请随便坐等。",
+       "pinyin": "qǐng suíbiàn zuòděng。",
+       "translations": "편히 앉아서 기다려주세요.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 891,
+       "hanzi": "5分钟后代理会来。",
+       "pinyin": "5 fēnzhōng hòu dàilǐ huìlái。",
+       "translations": "5분 뒤 대리님이 오실 겁니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 892,
+       "hanzi": "卫生间在楼下。",
+       "pinyin": "wèishēngjiān zài lóuxià。",
+       "translations": "화장실은 아래층에 있습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 893,
+       "hanzi": "我可以说我的想法吗？",
+       "pinyin": "wǒ kěyǐ shuō wǒ de xiǎngfǎ ma？",
+       "translations": "제 아이디어를 말씀 드려도 될까요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 894,
+       "hanzi": "在对方协调中。",
+       "pinyin": "zài duìfāng xiétiáo zhōng。",
+       "translations": "상대방과 조율 중입니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 895,
+       "hanzi": "我先下班了。",
+       "pinyin": "wŏ xiān xiàbān le 。",
+       "translations": "그는 영업부서로 배치되었습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 896,
+       "hanzi": "请批准文件。",
+       "pinyin": "qǐng pīzhǔn wénjiàn。",
+       "translations": "저 먼저 퇴근하겠습니다.",
+       "subject": "회사생활"
+  },
+  {
+       "id": 897,
+       "hanzi": "听到关于延长截止日期的答复了吗？",
+       "pinyin": "tīngdào guānyú yáncháng jiézhǐ rìqī de dáfù le ma？",
+       "translations": "마감일을 연장하는 것에 대한 답변을 들었나요?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 898,
+       "hanzi": "截止日期延长了吗？",
+       "pinyin": "jiézhǐ rìqī yáncháng le ma？",
+       "translations": "마감이 연장됐습니까?",
+       "subject": "회사생활"
+  },
+  {
+       "id": 899,
+       "hanzi": "最后期限可以推迟吗？",
+       "pinyin": "zuìhòu qīxiàn kěyǐ tuīchí ma？",
+       "translations": "마감기한을 미룰 수 있나요?",
+       "subject": "회사생활"
+  },
+  {
+    "id": 900,
+    "hanzi": "今天打算加班。",
+    "pinyin": "jīntiān dǎsuàn jiābān。",
+    "translations": "오늘 야근 할 예정입니다.",
+    "subject": "회사생활"
+  }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
